@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 so thich: Nghe nhac, doc sach
+=======
+>>>>>>> 643898c (Thêm file Readme.txt và info.txt)
 ky nang: Lap trinh C
