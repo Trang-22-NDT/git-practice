@@ -14,3 +14,4 @@ Giới thiệu: Tôi là <Nguyen Doan Trang>, MSSV <220692>.
 >>>>>>> 643898c (Thêm file Readme.txt và info.txt)
 Thêm ghi chú buổi 2
 - Cập nhật README 
+Stash 1
